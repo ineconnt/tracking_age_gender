@@ -2,7 +2,8 @@
 @author: Mahmoud I.Zidan
 """
 """
-ACV: track the position of an object as it moves from frame to frame in a video sequence. You give the
+ACV: correlation tracker from Python dlib library 
+Track the position of an object as it moves from frame to frame in a video sequence. You give the
 correlation_tracker the bounding box of the object you want to track in the current video frame.  Then it will identify the location 
 of the object in subsequent frames.
 """
